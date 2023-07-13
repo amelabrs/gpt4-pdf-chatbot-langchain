@@ -25,7 +25,7 @@ export default function Home() {
   }>({
     messages: [
       {
-        message: 'Hi, what would you like to learn about Cisco Enterprise Products',
+        message: 'Hi, what would you like to learn about Cisco's Enterprise Products',
         type: 'apiMessage',
       },
     ],
